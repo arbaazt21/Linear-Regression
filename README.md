@@ -24,7 +24,7 @@
 
 
 
---------Types of Linear Regression--------
+### Types of Linear Regression
 
 1. Simple linear regression: (ONE Dependent variable, ONE Independent variable)
 
