@@ -21,3 +21,11 @@
   c = Intercept / is constant means the value of y when x is 0.
 
 -Linear regression is an algorithm where we basically try to understand the linear relationship between Dependent and one or more Independent variables.
+
+
+
+--------Types of Linear Regression--------
+
+1. Simple linear regression: (ONE Dependent variable, ONE Independent variable)
+
+2.  Multiple linear regression: (ONE Dependent variable, MORE-THAN-ONE Independent variable)
